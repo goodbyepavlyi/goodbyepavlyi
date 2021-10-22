@@ -1,14 +1,14 @@
-### Hi there, I'm Paul - aka. goodbyepavlyi[website] <img src="./Icons/Hi.gif" height="32" />
+### Hi there, I'm Paul - aka. goodbyepavlyi <img src="./Icons/Hi.gif" height="32" />
 
 ## I'm a Student and Developer!
 
-- 👯 I’m looking to collaborate with other content creators
- � 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love listening to music.
+- 👯 I'm looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- ✨ Fun fact: I love listening to music.
 
 ### Connect with me:
 
-[<img align="left" alt="Goodbyepavlyi | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Goodbyepavlyi | Instagram" height="22px" src="./SocialLogo/Instagram.png" />]
 
 <br />
 

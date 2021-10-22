@@ -1,4 +1,4 @@
-### Hi there, I'm Paul - aka. goodbyepavlyi <img src="./Icons/Hi.gif" height="32" />
+### Hi there, I'm Paul - aka goodbyepavlyi <img src="./Icons/Hi.gif" height="32" />
 
 ## I'm a Student and Developer!
 

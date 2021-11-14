@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="https://instagram.com/goodbyepavlyi"><img align="left" alt="Goodbyepavlyi | Instagram" height="22px" src="./SocialLogo/Instagram.png" /></a>
+<a href="https://instagram.com/goodbyepavlyi" target="_blank"><img align="left" alt="Goodbyepavlyi | Instagram" height="22px" src="./SocialLogo/Instagram.png" /></a>
 
 <br />
 

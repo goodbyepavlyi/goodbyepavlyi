@@ -1,44 +1,29 @@
-## 👋 Hii, I'm Pavlyi.
-Discord bot developer and backend developer.
+<body>
+<h2 align="center"> ~ 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ~ </h2>
+<li>
+<b>Name:</b> Pavlyi
+</li>
+<li>
+<b>Gender:</b> he/him/male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff
+</li>
+<li>
+<b>Working @:</b> Froggie | froggie.gq
+</li>
+<br>
+</div>
 
-Currently working on [🐸 Froggie](https://froggie.gq) and [Valentine API](https://valentineapi.tk)
+<div>
+<h2 align="center"> ~ 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 ~ </h2>
+<p align="center">
+<a href="https://instagram.com/goodbyepavlyi" target="_blank"><img src="https://img.shields.io/badge/goodbyepavlyi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/755473025209466950" target="_blank"><img src="https://img.shields.io/badge/goodbyepavlyi ♡%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-
-## 🧰 Toolbox
-
-### 💿 Operating Systems
-
-* 🖥️ Computer
-  * **Windows 10**
-* 📱 Phone
-  * **Android 11**
-
-### 📝 Editors
-
-* 🎗️ **Visual Studio Code**
-
-### 🗣️ Languages
-
-* 🟦 NodeJS
-* ☕ Java
-* 📄 HTML
-* 🎇 Pug
-* 🎨 CSS
-* ⚙ JavaScript
-
-### 🥞 Stack
-
-* ⚙️ Backend
-  * 🟢 Node.js
-* 📦 Database
-  * 🍃 MySQL
-* ⚡️ Hosting
-  * ☁️ Linux servers
-
-## 💬 Socials
-
-* [Website](https://goodbyepavlyi.tk)
-* [Discord • goodbyepavlyi ♡#0404](https://discord.com/users/755473025209466950)
-* [Instagram](https://instagram.com/goodbyepavlyi)
-* [Spotify](https://open.spotify.com/user/zzt37ccfb22cyvd14os4r8mr4?si=b4e07c26908541ef)
-* [Email](mailto:pavlyi.off@gmail.com)
+<p align="center">
+<a href="mailto:pavlyi.off@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pavlyi.off@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+</div>
+</body>

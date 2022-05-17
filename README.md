@@ -9,9 +9,6 @@
 <li>
 <b>Hobbys:</b> Tech Stuff
 </li>
-<li>
-  <b>Working @:</b> Moshi | <a href="https://moshibot.tk" target="_blank">moshibot.tk</a>
-</li>
 <br>
 </div>
 
